@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200|Roboto+Condensed:700|Roboto+Slab&display=swap');
+
+
+
+body {
+  background-color: #ccccff;
+  color: #666699;
+  font-family: "Roboto+Condensed", sans-serif;
+  }
+
+
+h1 {text-align: center;
+text-transform: uppercase;
+letter-spacing: 1px;
+font-weight: bold;
+font-style: normal;
+font-size: 30 px;
+background-color:#d6f5f5;
+border: 2px solid blue;
+padding: 30px 0;
+margin-bottom: 60px;
+}
+
+
+h2 {
+  text-align:center;
+  font-size: 20px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+body {
+    display: block;
+    margin: 40px auto;
+    height: 300px;
+    width: 600px;
+}
